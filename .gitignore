@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+dist
+
+# logs
+*.log
+
+# system
+.DS_Store
+
+# Vite build
+client/dist
+
+# env
+.env
